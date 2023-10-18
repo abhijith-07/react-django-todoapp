@@ -1,0 +1,18 @@
+.form{
+    margin-top: 20%;
+    background-color: white;
+    height: 140px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form textarea.task{
+    height: 50px;
+}
+
+.add-task{
+    position: relative;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+}

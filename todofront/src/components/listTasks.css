@@ -1,0 +1,10 @@
+.task-box{
+    padding: 20px;
+    background-color: rgba(172, 172, 172, 0.687);
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.task-lists{
+    list-style: none;
+}
